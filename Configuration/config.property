@@ -1,0 +1,4 @@
+Browser=chrome
+ChromeDriver=/bin/chromedriver
+Url=http://automationpractice.com/index.php
+Environment=local
